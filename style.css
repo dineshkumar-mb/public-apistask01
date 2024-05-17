@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 0px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    border-width: 2px 2px 0;
+    background-color: #1176e8;
+  }
+  
+  .content {
+    margin: 20px;
+  }
+  .pagination {
+    margin: 20px 0;
+    text-align: center;
+
+  }
+  .pagination button{
+    padding: 10px 60px;
+    margin: 0 5px;
+    border: none;
+    background-color: rgb(131, 235, 13);
+    color: white;
+    cursor: pointer;
+  }
+  .pagination button:disabled{
+    background-color: rgb(244, 16, 8);
+    cursor: not-allowed;
+  }
+  
+ 
