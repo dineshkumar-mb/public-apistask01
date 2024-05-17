@@ -13,4 +13,5 @@ Cartosat-3:
 
 likewise the above data we can able to fetch data's like total number of spacecrafts that isro launched and its name and id.
 using public apis "https://isro.vercel.app/api/spacecrafts" the data is fetched . In this javascript dom ,html,css,bootstrap 
-are used to fetch data in a table and make  it responsive.
+are used to fetch data in a table and make  it responsive  .
+Pagination are used to display data in limit of 10 in particular current page next / previous buttons are used to display data's in proper manner
